@@ -1,0 +1,41 @@
+.rowmundo{
+    color: black;
+}
+.corazul {
+    color:blue;
+}
+h2, h3 {
+    color:orange;
+}
+.cor-vermelho {
+    color: crimson;
+}
+
+#titles {
+    background-color: white;
+}
+
+.card img {
+    width: 300px;
+    height: 300px;
+}
+.cards img {
+    width: 400px;
+    height: 600px;
+    }
+.preto {
+    color: black;
+}
+h4:hover {
+    color: brown;
+    cursor: pointer;
+}
+#categories {
+    background-color: chartreuse;
+}
+#about {
+    background-color: rgb(51, 248, 12);
+}
+.cor-azul {
+    color: black;
+}
